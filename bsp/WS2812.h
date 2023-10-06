@@ -1,0 +1,8 @@
+//
+// Created by wangguan on 23-10-6.
+//
+
+#ifndef LIGHTING_EFFECT_CONTROL_WS2812_H
+#define LIGHTING_EFFECT_CONTROL_WS2812_H
+
+#endif //LIGHTING_EFFECT_CONTROL_WS2812_H

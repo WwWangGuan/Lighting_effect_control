@@ -1,0 +1,3 @@
+/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/Lighting_effect_control.elf.dir
+/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
