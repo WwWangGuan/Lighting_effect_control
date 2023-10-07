@@ -1,4 +1,18 @@
-/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/wangguan/桌面/STM32/Lighting_effect_control -B /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug
+/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/bin/clang -DCMAKE_CXX_COMPILER=/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S /home/wangguan/桌面/STM32/Lighting_effect_control -B /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug
+-- The C compiler identification is GNU 12.3.1
+-- The CXX compiler identification is GNU 12.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
 -- Configuring done
 -- Generating done

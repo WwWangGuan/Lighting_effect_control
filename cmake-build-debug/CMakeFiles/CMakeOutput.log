@@ -33,12 +33,12 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5
+Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb
 
-Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0d34d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_0d34d.dir/build.make CMakeFiles/cmTC_0d34d.dir/build
-gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5'
-Building C object CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj
-/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_893db/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_893db.dir/build.make CMakeFiles/cmTC_893db.dir/build
+gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb'
+Building C object CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj
+/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c
 Using built-in specs.
 COLLECT_GCC=/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc
 Target: arm-none-eabi
@@ -46,8 +46,8 @@ Configured with: /data/jenkins/workspace/GNU-toolchain/arm-12/src/gcc/configure 
 Thread model: single
 Supported LTO compression algorithms: zlib
 gcc version 12.3.1 20230626 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/'
- /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1 -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_0d34d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccdPh8R6.s
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/'
+ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1 -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_893db.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccnZFApg.s
 GNU C17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 20230626 (arm-none-eabi)
 	compiled by GNU C version 4.8.5 20150623 (Red Hat 4.8.5-44), GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
 
@@ -68,18 +68,18 @@ GNU C17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 20230626 
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 438b582e669a48ce1020c90eb318abec
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/'
- /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj /tmp/ccdPh8R6.s
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/'
+ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj /tmp/ccnZFApg.s
 GNU assembler version 2.40.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 2.40.0.20230627
 COMPILER_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/
 LIBRARY_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi/lib/
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.'
-Linking C static library libcmTC_0d34d.a
-/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_0d34d.dir/cmake_clean_target.cmake
-/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d34d.dir/link.txt --verbose=1
-arm-none-eabi-ar qc libcmTC_0d34d.a CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj
-/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_0d34d.a
-gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5'
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.'
+Linking C static library libcmTC_893db.a
+/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_893db.dir/cmake_clean_target.cmake
+/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_893db.dir/link.txt --verbose=1
+arm-none-eabi-ar qc libcmTC_893db.a CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj
+/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_893db.a
+gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb'
 
 
 
@@ -98,12 +98,12 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(arm-none-eabi-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5]
+  ignore line: [Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0d34d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_0d34d.dir/build.make CMakeFiles/cmTC_0d34d.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5']
-  ignore line: [Building C object CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_893db/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_893db.dir/build.make CMakeFiles/cmTC_893db.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb']
+  ignore line: [Building C object CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-gcc]
   ignore line: [Target: arm-none-eabi]
@@ -111,8 +111,8 @@ Parsed C implicit link information from above output:
   ignore line: [Thread model: single]
   ignore line: [Supported LTO compression algorithms: zlib]
   ignore line: [gcc version 12.3.1 20230626 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/']
-  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1 -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_0d34d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccdPh8R6.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/']
+  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1 -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_893db.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccnZFApg.s]
   ignore line: [GNU C17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 20230626 (arm-none-eabi)]
   ignore line: [	compiled by GNU C version 4.8.5 20150623 (Red Hat 4.8.5-44)  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
   ignore line: []
@@ -133,18 +133,18 @@ Parsed C implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 438b582e669a48ce1020c90eb318abec]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/']
-  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj /tmp/ccdPh8R6.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/']
+  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj /tmp/ccnZFApg.s]
   ignore line: [GNU assembler version 2.40.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 2.40.0.20230627]
   ignore line: [COMPILER_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/]
   ignore line: [LIBRARY_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.']
-  ignore line: [Linking C static library libcmTC_0d34d.a]
-  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_0d34d.dir/cmake_clean_target.cmake]
-  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d34d.dir/link.txt --verbose=1]
-  ignore line: [arm-none-eabi-ar qc libcmTC_0d34d.a CMakeFiles/cmTC_0d34d.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_0d34d.a]
-  ignore line: [gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-PXZXK5']
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.']
+  ignore line: [Linking C static library libcmTC_893db.a]
+  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_893db.dir/cmake_clean_target.cmake]
+  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_893db.dir/link.txt --verbose=1]
+  ignore line: [arm-none-eabi-ar qc libcmTC_893db.a CMakeFiles/cmTC_893db.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_893db.a]
+  ignore line: [gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1RBbGb']
   ignore line: []
   ignore line: []
   implicit libs: []
@@ -154,12 +154,12 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx
+Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj
 
-Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d6819/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d6819.dir/build.make CMakeFiles/cmTC_d6819.dir/build
-gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx'
-Building CXX object CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj
-/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_c497b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_c497b.dir/build.make CMakeFiles/cmTC_c497b.dir/build
+gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj'
+Building CXX object CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj
+/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
 Using built-in specs.
 COLLECT_GCC=/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++
 Target: arm-none-eabi
@@ -167,8 +167,8 @@ Configured with: /data/jenkins/workspace/GNU-toolchain/arm-12/src/gcc/configure 
 Thread model: single
 Supported LTO compression algorithms: zlib
 gcc version 12.3.1 20230626 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/'
- /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1plus -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_d6819.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccg36NRn.s
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/'
+ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1plus -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c497b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccpVkzwF.s
 GNU C++17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 20230626 (arm-none-eabi)
 	compiled by GNU C version 4.8.5 20150623 (Red Hat 4.8.5-44), GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
 
@@ -195,18 +195,18 @@ GNU C++17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 2023062
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: f4effcca7e7be5b700cb3eb6c8c498de
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/'
- /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccg36NRn.s
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/'
+ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccpVkzwF.s
 GNU assembler version 2.40.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 2.40.0.20230627
 COMPILER_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/
 LIBRARY_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi/lib/
-COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.'
-Linking CXX static library libcmTC_d6819.a
-/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_d6819.dir/cmake_clean_target.cmake
-/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6819.dir/link.txt --verbose=1
-arm-none-eabi-ar qc libcmTC_d6819.a CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj
-/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_d6819.a
-gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx'
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.'
+Linking CXX static library libcmTC_c497b.a
+/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_c497b.dir/cmake_clean_target.cmake
+/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c497b.dir/link.txt --verbose=1
+arm-none-eabi-ar qc libcmTC_c497b.a CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj
+/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_c497b.a
+gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj'
 
 
 
@@ -231,12 +231,12 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(arm-none-eabi-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx]
+  ignore line: [Change Dir: /home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d6819/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d6819.dir/build.make CMakeFiles/cmTC_d6819.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx']
-  ignore line: [Building CXX object CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_c497b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_c497b.dir/build.make CMakeFiles/cmTC_c497b.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj']
+  ignore line: [Building CXX object CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj -c /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-g++]
   ignore line: [Target: arm-none-eabi]
@@ -244,8 +244,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [Thread model: single]
   ignore line: [Supported LTO compression algorithms: zlib]
   ignore line: [gcc version 12.3.1 20230626 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/']
-  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1plus -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_d6819.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccg36NRn.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/']
+  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/cc1plus -quiet -v -iprefix /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/ -isysroot /home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi -D__USES_INITFINI__ /home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c497b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o /tmp/ccpVkzwF.s]
   ignore line: [GNU C++17 (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) version 12.3.1 20230626 (arm-none-eabi)]
   ignore line: [	compiled by GNU C version 4.8.5 20150623 (Red Hat 4.8.5-44)  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
   ignore line: []
@@ -272,18 +272,18 @@ Parsed CXX implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: f4effcca7e7be5b700cb3eb6c8c498de]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/']
-  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccg36NRn.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/']
+  ignore line: [ /home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj /tmp/ccpVkzwF.s]
   ignore line: [GNU assembler version 2.40.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.3.Rel1 (Build arm-12.35)) 2.40.0.20230627]
   ignore line: [COMPILER_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../libexec/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/]
   ignore line: [LIBRARY_PATH=/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/:/home/wangguan/Software/arm-none-eabi-gcc/bin/../arm-none-eabi/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.']
-  ignore line: [Linking CXX static library libcmTC_d6819.a]
-  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_d6819.dir/cmake_clean_target.cmake]
-  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6819.dir/link.txt --verbose=1]
-  ignore line: [arm-none-eabi-ar qc libcmTC_d6819.a CMakeFiles/cmTC_d6819.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_d6819.a]
-  ignore line: [gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-xyXkxx']
+  ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [Linking CXX static library libcmTC_c497b.a]
+  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -P CMakeFiles/cmTC_c497b.dir/cmake_clean_target.cmake]
+  ignore line: [/home/wangguan/Software/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c497b.dir/link.txt --verbose=1]
+  ignore line: [arm-none-eabi-ar qc libcmTC_c497b.a CMakeFiles/cmTC_c497b.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [/home/wangguan/Software/arm-none-eabi-gcc/bin/arm-none-eabi-ranlib libcmTC_c497b.a]
+  ignore line: [gmake[1]: Leaving directory '/home/wangguan/桌面/STM32/Lighting_effect_control/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Di1sfj']
   ignore line: []
   ignore line: []
   implicit libs: []
