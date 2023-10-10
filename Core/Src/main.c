@@ -48,7 +48,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-uint16_t txbuffer[24] = {0, 0};// 单个灯珠传输数据
+uint16_t txbuffer[24];// 单个灯珠传输数据
 
 /* USER CODE END PV */
 
@@ -98,14 +98,14 @@ int main(void) {
     /* USER CODE BEGIN 2 */
     memset(txbuffer, 0, sizeof txbuffer);
     LEDInit();
-    RGBTransmassion(10,15,20);
+    RGBTransmassion(10,15,20,txbuffer);
+
     /* USER CODE END 2 */
 
     /* Infinite loop */
     /* USER CODE BEGIN WHILE */
     while (1) {
         /* USER CODE END WHILE */
-
         /* USER CODE BEGIN 3 */
     }
     /* USER CODE END 3 */
